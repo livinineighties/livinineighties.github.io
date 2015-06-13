@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a student at UT at Austin majoring in Computer Science. My graduation date is December 2015.
+My main area of interest is Game development.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Please check out my online resume at https://seelio.com/smagliocca for information on projects I have
+previously worked on.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[livinineighties@hotmail.com](mailto:email@domain.com)
